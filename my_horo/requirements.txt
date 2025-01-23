@@ -1,0 +1,5 @@
+fastapi
+fastapi.middleware.cors
+pydantic
+huggingface_hub
+logging
